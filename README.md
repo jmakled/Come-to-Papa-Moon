@@ -1,6 +1,6 @@
-# PRE-PUBLISH TODO
+# Some known bugs
 
-- [ ] Part PDFs don't include header and layout is fucked. Fix!
+- [ ] Part PDFs don't include header and layout is borked. Fix!
 - [ ] Score + Parts need copyright info in footer
 
 # Development
